@@ -1,7 +1,7 @@
 # 🎥 YouTube Transcript Bot
 
-[![GitHub forks](https://img.shields.io/github/forks/tandavbot2/youtube-transcript-bot?style=social)](https://github.com/tandavbot2/youtube-transcript-bot/network)
-[![GitHub stars](https://img.shields.io/github/stars/tandavbot2/youtube-transcript-bot?style=social)](https://github.com/YOUR_USERNAME/youtube-transcript-bot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/mr-strategist/Yt-transcript-bot?style=social)](https://github.com/mr-strategist/Yt-tanscript-bot/network)
+[![GitHub stars](https://img.shields.io/github/stars/mr-strategist/Yt-transcript-bot?style=social)](https://github.com/mr-strategist/Yt-transcript-bot/stargazers)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram)](https://t.me/Zunn_41bot)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -39,7 +39,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/tandavbot2/youtube-transcript-bot.git
+git clone https://github.com/mr-strategist/Yt-transcript-bot.git
 
 # Install dependencies
 pip install -r requirements.txt
@@ -65,7 +65,7 @@ python main.py
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/tandavbot2/youtube-transcript-bot/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/tandavbot2/Yt-transcript-bot/issues).
 
 ## 📜 License
 
