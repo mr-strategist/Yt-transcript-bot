@@ -1,8 +1,8 @@
 {
   "name": "YouTube Transcript Bot",
   "description": "A Telegram bot that extracts transcripts from YouTube videos and provides AI-powered summaries",
-  "repository": "https://github.com/tandavbot2/youtube-transcript-bot-main",
-  "logo": "https://raw.githubusercontent.com/tandavbot2/youtube-transcript-bot/main/logo.jpg",
+  "repository": "https://github.com/mr-strategist/Yt-transcript-bot",
+  "logo": "https://raw.githubusercontent.com/mr-strategist/Yt-transcript-bot/main/logo.jpg",
   "keywords": ["python", "telegram", "bot", "youtube", "transcript", "ai", "summarization"],
   "env": {
     "BOT_TOKEN": {
