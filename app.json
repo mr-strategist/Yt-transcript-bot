@@ -1,0 +1,32 @@
+{
+  "name": "YouTube Transcript Bot",
+  "description": "A Telegram bot that extracts transcripts from YouTube videos and provides AI-powered summaries",
+  "repository": "https://github.com/tandavbot2/youtube-transcript-bot-main",
+  "logo": "https://raw.githubusercontent.com/tandavbot2/youtube-transcript-bot/main/logo.jpg",
+  "keywords": ["python", "telegram", "bot", "youtube", "transcript", "ai", "summarization"],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Your Telegram Bot Token from @BotFather",
+      "required": true
+    },
+    "ADMIN_ID": {
+      "description": "Your Telegram User ID (you can get it from @userinfobot)",
+      "required": true
+    },
+    "BIN_CHANNEL": {
+      "description": "Channel ID for logs (optional)",
+      "required": false
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+} 
